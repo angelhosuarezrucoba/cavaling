@@ -2545,7 +2545,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 }
 @media (max-width: 546px) {
   .header_aera .navbar-header .navbar-brand img {
-   padding-top:-40px;
+   margin-top:-40px;
   } 
   .call_min_area h2 {
     font-size: 40px;
